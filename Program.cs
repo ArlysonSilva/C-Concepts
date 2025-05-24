@@ -9,7 +9,14 @@ obj1.Name = "Arlyson";
 
 Person obj2 = new();
 obj2.Name = "Juliana";
-obj2.Presentation();
+// obj2.Presentation();
 
 //Example 03
 
+Person obj3 = new()
+{
+    Name = "Luke",
+    Age = 10
+};
+string rtn = obj3.VerifyAge();
+Console.WriteLine(rtn);
