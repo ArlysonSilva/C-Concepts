@@ -1,0 +1,14 @@
+C:\POO\01concepts\bin\Debug\net9.0\01concepts.exe
+C:\POO\01concepts\bin\Debug\net9.0\01concepts.deps.json
+C:\POO\01concepts\bin\Debug\net9.0\01concepts.runtimeconfig.json
+C:\POO\01concepts\bin\Debug\net9.0\01concepts.dll
+C:\POO\01concepts\bin\Debug\net9.0\01concepts.pdb
+C:\POO\01concepts\obj\Debug\net9.0\01concepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\POO\01concepts\obj\Debug\net9.0\01concepts.AssemblyInfoInputs.cache
+C:\POO\01concepts\obj\Debug\net9.0\01concepts.AssemblyInfo.cs
+C:\POO\01concepts\obj\Debug\net9.0\01concepts.csproj.CoreCompileInputs.cache
+C:\POO\01concepts\obj\Debug\net9.0\01concepts.dll
+C:\POO\01concepts\obj\Debug\net9.0\refint\01concepts.dll
+C:\POO\01concepts\obj\Debug\net9.0\01concepts.pdb
+C:\POO\01concepts\obj\Debug\net9.0\01concepts.genruntimeconfig.cache
+C:\POO\01concepts\obj\Debug\net9.0\ref\01concepts.dll
